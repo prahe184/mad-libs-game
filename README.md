@@ -10,7 +10,11 @@ A simple mad-libs game built using Python.
  f-strings
 
 ### Demo:
-Reminder: Fork this repo to run this game.
+Steps:
+Firstly, click on the link given below.
+Next, Click on Remix this app...
+Now, You will get into environment where you can see the run, then click on console, You can play the game.
+
 https://replit.com/@anuprahamonu198/mad-libs-game
 
 You can try this game on Replit by running the command " python3 madlib.py"...
